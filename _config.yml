@@ -6,8 +6,8 @@ description: "Società e cultura dalla torre di osservazione del libertarismo"  
 google_analytics: 
 # disque comments are broken if you send http:// along with url, this url is same as the one given on disqus
 # Deleting the value would remove it from footer.
-disqus_url: 
-disqus_id: 
+disqus_url: disqus.com/by/erasmodanarni/
+disqus_id: erasmodanarni
 # register on feedburner and replace this url. Deleting the value will remove it from footer.
 feedburner_url: 
 
